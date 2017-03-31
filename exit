@@ -1,0 +1,57 @@
+[33mcommit 3480c175457dc45d0655b0d681ba7dca1417a177[m
+Merge: 0b0ffa1 26e700d
+Author: David Szanto <szavid0@gmail.com>
+Date:   Fri Mar 31 04:15:30 2017 -0700
+
+    Merge remote-tracking branch 'origin/branch-B'
+
+[33mcommit 26e700d95319fd0b25d238387058b130ead161d3[m
+Author: David Szanto <szavid0@gmail.com>
+Date:   Fri Mar 31 04:14:12 2017 -0700
+
+    Branch-B changes
+
+[33mcommit 0b0ffa16f50e83c22f4c50d7446fa9b94a384ae7[m
+Author: David Szanto <szavid0@gmail.com>
+Date:   Fri Mar 31 04:11:56 2017 -0700
+
+    Branch-A changes
+
+[33mcommit ba6df6659b2eda8787f9ba1931ab21ae704c8a90[m
+Merge: 41fe74f 7d32d97
+Author: David Szanto <davidszanto@users.noreply.github.com>
+Date:   Fri Mar 31 04:05:14 2017 -0700
+
+    Merge pull request #2 from davidszanto/Torpedo-fire-error
+    
+    fixes #1
+
+[33mcommit 7d32d97f3af0f69494920f05e9b312a1f7b8ba5d[m
+Author: David Szanto <szavid0@gmail.com>
+Date:   Fri Mar 31 04:01:25 2017 -0700
+
+    Fire ALL error fix
+
+[33mcommit 41fe74f25b7cbb1e4293f97015af843a960b4514[m
+Author: David Szanto <szavid0@gmail.com>
+Date:   Fri Mar 31 03:40:51 2017 -0700
+
+    README changes
+
+[33mcommit 4a2b10ef805c4ca33e7a8561675364243994b9f5[m
+Author: David Szanto <szavid0@gmail.com>
+Date:   Fri Mar 31 03:39:28 2017 -0700
+
+    Travis init
+
+[33mcommit b23d9e1f7ff256a8d339329bc9bc43edb7dc22bf[m
+Author: David Szanto <szavid0@gmail.com>
+Date:   Fri Mar 31 03:34:19 2017 -0700
+
+    First Commit
+
+[33mcommit 84f035a27ee27bbab454855d84951b129e0cc021[m
+Author: David Szanto <davidszanto@users.noreply.github.com>
+Date:   Fri Mar 31 03:27:03 2017 -0700
+
+    Initial commit
